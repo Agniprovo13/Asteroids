@@ -1,0 +1,61 @@
+{"timestamp": "14:54:34.145", "elapsed_s": 4, "frame": 302, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:34.145", "elapsed_s": 4, "frame": 302, "type": "asteroid_shot"}
+{"timestamp": "14:54:34.145", "elapsed_s": 4, "frame": 302, "type": "asteroid_split"}
+{"timestamp": "14:54:37.511", "elapsed_s": 8, "frame": 510, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:37.511", "elapsed_s": 8, "frame": 510, "type": "asteroid_shot"}
+{"timestamp": "14:54:37.511", "elapsed_s": 8, "frame": 510, "type": "asteroid_split"}
+{"timestamp": "14:54:37.863", "elapsed_s": 8, "frame": 532, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:37.863", "elapsed_s": 8, "frame": 532, "type": "asteroid_shot"}
+{"timestamp": "14:54:37.863", "elapsed_s": 8, "frame": 532, "type": "asteroid_split"}
+{"timestamp": "14:54:38.234", "elapsed_s": 9, "frame": 555, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:38.234", "elapsed_s": 9, "frame": 555, "type": "asteroid_shot"}
+{"timestamp": "14:54:38.234", "elapsed_s": 9, "frame": 555, "type": "asteroid_split"}
+{"timestamp": "14:54:38.298", "elapsed_s": 9, "frame": 559, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:38.298", "elapsed_s": 9, "frame": 559, "type": "asteroid_shot"}
+{"timestamp": "14:54:38.492", "elapsed_s": 9, "frame": 571, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:38.492", "elapsed_s": 9, "frame": 571, "type": "asteroid_shot"}
+{"timestamp": "14:54:38.492", "elapsed_s": 9, "frame": 571, "type": "asteroid_split"}
+{"timestamp": "14:54:38.589", "elapsed_s": 9, "frame": 577, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:38.589", "elapsed_s": 9, "frame": 577, "type": "asteroid_shot"}
+{"timestamp": "14:54:38.589", "elapsed_s": 9, "frame": 577, "type": "asteroid_split"}
+{"timestamp": "14:54:39.805", "elapsed_s": 10, "frame": 652, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:39.805", "elapsed_s": 10, "frame": 652, "type": "asteroid_shot"}
+{"timestamp": "14:54:39.805", "elapsed_s": 10, "frame": 652, "type": "asteroid_split"}
+{"timestamp": "14:54:40.052", "elapsed_s": 10, "frame": 667, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:40.052", "elapsed_s": 10, "frame": 667, "type": "asteroid_shot"}
+{"timestamp": "14:54:40.053", "elapsed_s": 10, "frame": 667, "type": "asteroid_split"}
+{"timestamp": "14:54:40.069", "elapsed_s": 10, "frame": 668, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:40.069", "elapsed_s": 10, "frame": 668, "type": "asteroid_shot"}
+{"timestamp": "14:54:40.069", "elapsed_s": 10, "frame": 668, "type": "asteroid_split"}
+{"timestamp": "14:54:41.040", "elapsed_s": 11, "frame": 728, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:41.040", "elapsed_s": 11, "frame": 728, "type": "asteroid_shot"}
+{"timestamp": "14:54:41.040", "elapsed_s": 11, "frame": 728, "type": "asteroid_split"}
+{"timestamp": "14:54:41.346", "elapsed_s": 12, "frame": 747, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:41.346", "elapsed_s": 12, "frame": 747, "type": "asteroid_shot"}
+{"timestamp": "14:54:41.528", "elapsed_s": 12, "frame": 758, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:41.528", "elapsed_s": 12, "frame": 758, "type": "asteroid_shot"}
+{"timestamp": "14:54:41.593", "elapsed_s": 12, "frame": 762, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:41.593", "elapsed_s": 12, "frame": 762, "type": "asteroid_shot"}
+{"timestamp": "14:54:41.593", "elapsed_s": 12, "frame": 762, "type": "asteroid_split"}
+{"timestamp": "14:54:41.722", "elapsed_s": 12, "frame": 770, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:41.722", "elapsed_s": 12, "frame": 770, "type": "asteroid_shot"}
+{"timestamp": "14:54:41.722", "elapsed_s": 12, "frame": 770, "type": "asteroid_split"}
+{"timestamp": "14:54:42.045", "elapsed_s": 12, "frame": 790, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:42.045", "elapsed_s": 12, "frame": 790, "type": "asteroid_shot"}
+{"timestamp": "14:54:42.045", "elapsed_s": 12, "frame": 790, "type": "asteroid_split"}
+{"timestamp": "14:54:42.563", "elapsed_s": 13, "frame": 822, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:42.563", "elapsed_s": 13, "frame": 822, "type": "asteroid_shot"}
+{"timestamp": "14:54:42.564", "elapsed_s": 13, "frame": 822, "type": "asteroid_split"}
+{"timestamp": "14:54:43.358", "elapsed_s": 14, "frame": 871, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:43.358", "elapsed_s": 14, "frame": 871, "type": "asteroid_shot"}
+{"timestamp": "14:54:43.358", "elapsed_s": 14, "frame": 871, "type": "asteroid_split"}
+{"timestamp": "14:54:43.893", "elapsed_s": 14, "frame": 904, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:43.893", "elapsed_s": 14, "frame": 904, "type": "asteroid_shot"}
+{"timestamp": "14:54:44.182", "elapsed_s": 15, "frame": 922, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:44.182", "elapsed_s": 15, "frame": 922, "type": "asteroid_shot"}
+{"timestamp": "14:54:44.472", "elapsed_s": 15, "frame": 940, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:44.473", "elapsed_s": 15, "frame": 940, "type": "asteroid_shot"}
+{"timestamp": "14:54:44.522", "elapsed_s": 15, "frame": 943, "type": "Collision detected between shot and asteroid."}
+{"timestamp": "14:54:44.522", "elapsed_s": 15, "frame": 943, "type": "asteroid_shot"}
+{"timestamp": "14:54:45.086", "elapsed_s": 15, "frame": 961, "type": "Collision detected between player and asteroid."}
+{"timestamp": "14:54:45.086", "elapsed_s": 15, "frame": 961, "type": "player_hit"}
